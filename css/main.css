@@ -45,12 +45,11 @@ body{
 
 .header a:hover {
   background-color: #222;
-  font-style: italic;
   color: white;
 }
 
 .header a.active {
-  background-color: dimgrey ;
+  background-color: #222 ;
   color: white;
 }
 
